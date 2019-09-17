@@ -1,3 +1,5 @@
+#Lab Partner: @Matt Werner , @Zermina Ejaz
+
 # TaskLister Lite™️
 
 Today you'll be creating a simple to do list application that will focus on DOM
@@ -56,3 +58,5 @@ If you finish early, try to implement one or more of the following:
 
 [example]: https://learn-co-curriculum.github.io/js-task-lister-lite/
 [mdn-pd]: https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
+
+
