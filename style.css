@@ -35,3 +35,23 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+li{
+  list-style:unset;
+
+}
+
+li button{
+  margin-left: 10px;
+}
+
+li.high {
+  color: red;
+}
+
+li.medium {
+  color: blue;
+}
+
+li.low {
+  color: green;
+}
