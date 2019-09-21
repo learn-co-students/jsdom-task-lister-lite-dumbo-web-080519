@@ -28,7 +28,7 @@ toDoForm.addEventListener("submit", function(event){
 
 toDoList.addEventListener("click", function(event){
   if (event.target.tagName === "BUTTON"){
-    //console.log(event.target.parent)
+    
     event.target.parentElement.remove()
  }
 })
