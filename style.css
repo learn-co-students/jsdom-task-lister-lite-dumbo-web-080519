@@ -35,3 +35,27 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+/* table {
+  display: flex 
+} */
+th { 
+  border: 1px solid black; 
+}
+
+/* td { 
+  border: 1px solid black; 
+  display: flex;
+} */
+
+.high {
+  color: red;
+}
+
+.medium {
+  color: orangered;
+}
+
+.low {
+    color: green;
+}
